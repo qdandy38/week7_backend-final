@@ -1,4 +1,4 @@
-# week7_backend-final
+# week7_dashboard
 
 ## Project setup
 ```
